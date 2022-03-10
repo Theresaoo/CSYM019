@@ -30,6 +30,7 @@ nav {
     display:inline;
     grid-area: nav;
     background-color:yellow;
+    padding: 1em;
     
 }nav a{
     margin-left: 15%;
