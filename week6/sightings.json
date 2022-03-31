@@ -1,0 +1,39 @@
+{
+"sightings": [
+   { "id": 1,
+    "animal":"Pine Martin",
+    "number": 4,
+    "location":"Meadow woods, Calgary",
+    "date": "2022-02-10",
+    "time":"11:30:37",
+    "observer": {
+       "name": "Miles Peterson",
+       "email":"mpeters@mail.com"},
+    "observations": "Four Pine Martins. 1 adult. 3 juveniles.In wooded area. Adult appeared to be mother. Foraging for food"
+   },
+   { "id": 2,
+      "animal":"Hare",
+      "number": 3,
+      "location":"Meadow woods, Calgary",
+      "date": "2022-02-10",
+      "time":"12:30:37",
+      "observer": {
+         "name": "Miles Peterson",
+         "email":"mpeters@mail.com"},
+      "observations": "Three Hares. 3 adults. Adults appeared to be male and two females. Foraging for food"
+     },
+     { "id": 3,
+      "animal":"Osprey",
+      "number": 1,
+      "location":"Meadow woods, Calgary",
+      "date": "2022-02-10",
+      "time":"13:30:37",
+      "observer": {
+         "name": "Miles Peterson",
+         "email":"mpeters@mail.com"},
+      "observations": "Lone Osprey. 1 adult, Hunting."
+     }
+
+]
+
+}
